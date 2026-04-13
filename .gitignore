@@ -1,0 +1,28 @@
+# Never commit these
+.env
+.env.*
+
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# ChromaDB vector store (large, rebuilt from your data)
+data/chroma_db/
+
+# Raw Confluence exports (large, you own the source)
+data/raw/
+
+# Processed chunks (rebuilt by embed.py)
+data/processed/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/

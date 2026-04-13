@@ -1,0 +1,25 @@
+(.venv) ➜  confluence-ai p ./day1_basics.py
+Question: A user reports that their Confluence Cloud space export is stuck. The progress bar reached 100% but no download link appeared. What are the most likely causes?
+
+Answer:
+The frustration of a stuck export! Don't worry, I'm here to help you troubleshoot the issue.
+
+When a Confluence Cloud space export gets stuck at 100%, with no download link appearing, there are several possible causes:
+
+1. **Network or internet connectivity issues**: Check if your network connection is stable and working properly. A slow or unreliable internet connection can cause the export process to timeout or fail.
+2. **Large content size**: If you have a massive amount of content in your space (e.g., thousands of pages), it may take a long time to export, causing the progress bar to reach 100% without completing the download.
+3. **Space permissions or access issues**: Ensure that you have the necessary permissions and access rights to export the space. Check if any users or groups are restricted from accessing certain content or spaces.
+4. **Confluence Cloud server-side issues**: It's possible that there's a temporary issue with Confluence Cloud's servers, causing the export process to fail or get stuck. Try waiting for some time (e.g., 30 minutes) and then retry the export.
+5. **Browser or plugin issues**: Check if your browser is up-to-date and functioning correctly. Some users have reported issues with certain browsers or plugins interfering with Confluence Cloud exports.
+6. **Export settings or options**: Review your export settings to ensure you haven't selected an option that's causing the issue (e.g., exporting specific content types, like attachments).
+7. **Atlassian maintenance or downtime**: Occasionally, Atlassian may perform scheduled maintenance or experience downtime, which can affect Confluence Cloud services, including exports.
+
+To troubleshoot further:
+
+1. Check the Confluence Cloud status page for any reported issues or maintenance notifications.
+2. Try restarting your browser and retrying the export.
+3. Contact your organization's IT department or Confluence administrator to see if they've experienced similar issues or have any insights into the problem.
+4. Reach out to Atlassian support (if you're a paid customer) or submit a request for assistance through the Confluence Cloud help center.
+
+I hope these suggestions help you identify and resolve the issue with your stuck export!
+(.venv) ➜  confluence-ai

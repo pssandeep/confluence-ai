@@ -1,3 +1,4 @@
+==FIRST RUN==
 (.venv) ➜  confluence-ai p ./day1_basics.py
 Question: A user reports that their Confluence Cloud space export is stuck. The progress bar reached 100% but no download link appeared. What are the most likely causes?
 
@@ -23,3 +24,5 @@ To troubleshoot further:
 
 I hope these suggestions help you identify and resolve the issue with your stuck export!
 (.venv) ➜  confluence-ai
+==============
+
